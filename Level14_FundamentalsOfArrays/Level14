@@ -1,0 +1,10 @@
+input n and take n integers into an array,print them
+finding sum of all elements in an array
+find the average of array elemets
+finding minimum element
+finding maximum element
+couting the positive,negative and zero elements
+counting even and odd elements
+find the index of max element
+find the index of min element
+take n elements and print only those greater than a given value k
